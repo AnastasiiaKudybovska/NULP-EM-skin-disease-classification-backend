@@ -4,3 +4,5 @@
 *.h5
 /venv310
 /app/.env
+.DS_Store
+**/.DS_Store
